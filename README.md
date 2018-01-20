@@ -11,3 +11,6 @@ Features
 - Delete a Reminder 
 - Completely free and ad-free
  
+About App
+-------
+- This app is having lots of and lots of bugs so please feel free to post issues. Thank you 
