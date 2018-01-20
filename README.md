@@ -6,6 +6,7 @@ Features
 
 - Material Design UI
 - Set a Alarm to a task 
+- Recieve Notification
 - Set done ticker
 - Offline Database 
 - Delete a Reminder 
