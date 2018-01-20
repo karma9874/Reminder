@@ -13,4 +13,4 @@ Features
  
 About App
 -------
-- This app is having lots of and lots of bugs so please feel free to post issues. Thank you 
+- This app is having lot of and lots of bugs so please feel free to post issues. Thank you 
