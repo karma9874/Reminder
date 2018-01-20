@@ -15,11 +15,11 @@ Screenshots
 -------
 <img src="https://github.com/karma9874/Reminder/blob/master/Screenshots/Screenshot_20180120-203350.png" width="400">
 
-<img src="https://github.com/karma9874/Reminder/blob/master/Screenshots/Screenshot_20180120-202905" width="400">
+<img src="https://github.com/karma9874/Reminder/blob/master/Screenshots/Screenshot_20180120-202905.png" width="400">
 
-<img src="https://github.com/karma9874/Reminder/blob/master/Screenshots/Screenshot_20180120-203018" width="400">
+<img src="https://github.com/karma9874/Reminder/blob/master/Screenshots/Screenshot_20180120-203018.png" width="400">
 
-<img src="https://github.com/karma9874/Reminder/blob/master/Screenshots/Screenshot_20180120-203024" width="400">
+<img src="https://github.com/karma9874/Reminder/blob/master/Screenshots/Screenshot_20180120-203024.png" width="400">
 
 
  
