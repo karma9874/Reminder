@@ -10,7 +10,6 @@ Features
 - Set done ticker
 - Offline Database 
 - Delete a Reminder 
-- Completely free and ad-free
 
 Screenshots
 -------
