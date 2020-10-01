@@ -33,13 +33,13 @@ public class dailog  {
                         calendar.set(Calendar.HOUR_OF_DAY,timer.getCurrentHour());
                         calendar.set(Calendar.MINUTE,timer.getCurrentMinute());
 
-                        int hour = timer.getCurrentHour();
-                        int min = timer.getCurrentMinute();
+                        int hour =  (int)timer.getCurrentHour();
+                        int min = (int)timer.getCurrentMinute();
 
-                        String shour = String.valueOf(hour);
-                        String smin = String.valueOf(min);
+                        String shour = hour+"";
+                        String smin = min+"";
 
-                        Toast.makeText(activity, "Alarm Set", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(activity, "Alarm Set", Toast.LENGTH_LONG).show();
 
                             alarmReciever.setAlarm(activity,calendar);
 
